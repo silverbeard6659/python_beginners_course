@@ -20,7 +20,7 @@ print(z)  # Output: 2.0
 
 x = 10
 y = 0
-z = x / y
+#z = x / y
 print(z)  # Output: ZeroDivisionError: division by zero
 
 first_integer = 10
